@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Autarch Kyre](https://steamcommunity-a.akamaihd.net/economy/image/IzMF03bk9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdA3g5gMEPvUZZEaiHLrVJRsl8vGuCUY7Cjc9ehDNVzDMEcnephCQrcex4NM6b6xzppKSEEXXwbWqddnOPSw46ReddMGmP9jT0s7-QSjHNQLktQQxRfKYG-mdKbsGKPBc8ysdVrCO6mFZ5GwQXe8hHdwrmmSUSZbkmn3FFI59bmS3wdJCN1w1rOxM_W7m2UrTBb4Wgl3wiXhNlTb5aOtyD_ijtbm9FTQc)
